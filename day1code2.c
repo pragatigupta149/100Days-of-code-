@@ -1,4 +1,6 @@
-#include <stdio.h>   // Header file for input and output functions
+Write a program to input two numbers and display their sum, difference, product, and quotient.
+
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int num1, num2;        // Variables to store the two numbers
