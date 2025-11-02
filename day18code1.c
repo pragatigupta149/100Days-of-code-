@@ -1,4 +1,7 @@
-#include <stdio.h>   // Header file for input and output functions
+//Write a program to print all factors of a given number.
+    
+    
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int num, i;
