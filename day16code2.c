@@ -1,4 +1,7 @@
-#include <stdio.h>   // Header file for input and output functions
+//Write a program to check if a number is a palindrome.
+
+    
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int num, original, reversed = 0, remainder;
