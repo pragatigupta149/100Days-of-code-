@@ -1,3 +1,5 @@
+//Toggle case of each character in a string.
+    
 #include <stdio.h>
 
 int main() {
