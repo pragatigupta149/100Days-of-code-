@@ -1,4 +1,5 @@
-#include <stdio.h>   // Header file for input and output functions
+Write a program to input time in seconds and convert it to hours:minutes:seconds format.
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int total_seconds;     // Variable to store input seconds
