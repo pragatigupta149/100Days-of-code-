@@ -1,3 +1,5 @@
+//Search in a sorted array using binary search.
+    
 #include <stdio.h>
 
 int main() {
