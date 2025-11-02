@@ -1,3 +1,5 @@
+//Replace spaces with hyphens in a string.
+    
 #include <stdio.h>
 
 int main() {
