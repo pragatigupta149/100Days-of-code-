@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int i, j;
+
+    // Outer loop for number of rows
+    for (i = 1; i <= 5; i++) {
+        // Inner loop to print numbers in each row
+        for (j = 1; j <= i; j++) {
+            printf("%d", j);
+        }
+        printf("\n"); // Move to next line after each row
+    }
+
+    return 0;
+}
