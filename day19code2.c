@@ -1,4 +1,7 @@
-#include <stdio.h>   // Header file for input and output functions
+//Write a program to find the sum of digits of a number.
+
+    
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int num, remainder, sum = 0;
