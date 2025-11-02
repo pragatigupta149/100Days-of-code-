@@ -1,4 +1,7 @@
-#include <stdio.h>   // Header file for input and output functions
+//Write a program to check if a number is an Armstrong number.
+    
+    
+    #include <stdio.h>   // Header file for input and output functions
 #include <math.h>    // Header for power() function
 
 int main() {
