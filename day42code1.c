@@ -1,3 +1,5 @@
+//Count vowels and consonants in a string.
+    
 #include <stdio.h>
 #include <ctype.h>  // for tolower() function
 
