@@ -1,3 +1,5 @@
+//Check if two strings are anagrams of each other.
+
 #include <stdio.h>
 #include <string.h>
 
