@@ -1,5 +1,7 @@
 
 //Write a program to print numbers from 1 to n.
+
+
 #include <stdio.h>   // Header file for input and output functions
 
 int main() {
