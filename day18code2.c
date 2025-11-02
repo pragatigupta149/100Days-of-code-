@@ -1,4 +1,7 @@
-#include <stdio.h>   // Header file for input and output functions
+//Write a program to find the HCF (GCD) of two numbers.
+    
+    
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int num1, num2, hcf;
