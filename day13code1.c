@@ -1,4 +1,5 @@
-#include <stdio.h>   // Header file for input and output functions
+Write a program to implement a basic calculator using switch-case for +, -, *, /, %.
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     float num1, num2, result;  // Variables to store numbers and result
