@@ -1,4 +1,6 @@
-#include <stdio.h>   // Header file for input and output functions
+//Write a program to print the sum of the first n odd numbers.
+    
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int n, i, sum = 0;   // Variables to store n, counter, and sum
