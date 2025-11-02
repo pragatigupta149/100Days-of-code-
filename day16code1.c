@@ -1,4 +1,7 @@
-#include <stdio.h>   // Header file for input and output functions
+//Write a program to take a number as input and print its equivalent binary representation.
+    
+    
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int num, binary[32], i = 0;   // Array to store binary digits (max 32 bits for int)
