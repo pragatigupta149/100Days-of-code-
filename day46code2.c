@@ -1,3 +1,5 @@
+//Find the first repeating lowercase alphabet in a string.
+
 #include <stdio.h>
 
 int main() {
