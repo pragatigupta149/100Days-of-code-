@@ -1,4 +1,7 @@
-#include <stdio.h>   // Header file for input and output functions
+//Write a program to print the product of even numbers from 1 to n.
+    
+    
+    #include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int n, i; 
