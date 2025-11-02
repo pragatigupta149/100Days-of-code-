@@ -1,7 +1,6 @@
 //Write a program to find the 1’s complement of a binary number and print it.
     
-    
-    #include <stdio.h>   // Header file for input and output functions
+#include <stdio.h>   // Header file for input and output functions
 #include <string.h>  // Header for string functions
 
 int main() {
