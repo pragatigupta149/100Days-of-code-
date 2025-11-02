@@ -1,3 +1,6 @@
+//Write a program to check if a number is prime.
+
+
 #include <stdio.h>   // Header file for input and output functions
 
 int main() {
