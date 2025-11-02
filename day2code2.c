@@ -1,4 +1,5 @@
-#include <stdio.h>   // Header file for input and output functions
+Write a program to calculate the area and circumference of a circle given its radius.
+    #include <stdio.h>   // Header file for input and output functions
 #define PI 3.1416     // Defining the value of π (pi)
 
 int main() {
