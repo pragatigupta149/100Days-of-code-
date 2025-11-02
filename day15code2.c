@@ -1,3 +1,6 @@
+//Write a program to reverse a given number.
+
+
 #include <stdio.h>   // Header file for input and output functions
 
 int main() {
