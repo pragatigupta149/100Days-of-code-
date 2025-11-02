@@ -1,3 +1,6 @@
+//Write a program to calculate the factorial of a number.
+
+
 #include <stdio.h>   // Header file for input and output functions
 
 int main() {
