@@ -1,3 +1,5 @@
+//Reverse each word in a sentence without changing the word order.
+
 #include <stdio.h>
 #include <string.h>
 
