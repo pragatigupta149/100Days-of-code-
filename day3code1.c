@@ -1,3 +1,4 @@
+Write a program to convert temperature from Celsius to Fahrenheit.
 #include <stdio.h>   // Header file for input and output functions
 
 int main() {
