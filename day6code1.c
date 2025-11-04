@@ -1,5 +1,6 @@
-Write a program to input an integer and check whether it is even or odd using if–else.
-    #include <stdio.h>   // Header file for input and output functions
+//Write a program to input an integer and check whether it is even or odd using if–else.
+   
+#include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int num;   // Variable to store the input number
