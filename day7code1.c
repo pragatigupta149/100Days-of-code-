@@ -1,4 +1,6 @@
-Write a program to input a year and check whether it is a leap year or not using conditional statements.
+//Write a program to input a year and check whether it is a leap year or not using conditional statements.
+
+
 #include <stdio.h>   // Header file for input and output functions
 
 int main() {
