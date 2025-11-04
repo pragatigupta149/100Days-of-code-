@@ -1,5 +1,6 @@
-Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
-    #include <stdio.h>   // Header file for input and output functions
+//Write a program to calculate the area and perimeter of a rectangle given its length and breadth.
+   
+#include <stdio.h>   // Header file for input and output functions
 
 int main() {
     float length, breadth;        // Variables to store dimensions
