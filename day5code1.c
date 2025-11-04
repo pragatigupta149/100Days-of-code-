@@ -1,4 +1,6 @@
-Write a program to calculate simple and compound interest for given principal, rate, and time.
+//Write a program to calculate simple and compound interest for given principal, rate, and time.
+
+
 #include <stdio.h>    // For input and output functions
 #include <math.h>     // For pow() function used in compound interest
 
