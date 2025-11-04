@@ -1,4 +1,6 @@
-Write a program to display the month name and number of days using switch-case for a given month number.
+//Write a program to display the month name and number of days using switch-case for a given month number.
+
+
 #include <stdio.h>   // Header file for input and output functions
 
 int main() {
