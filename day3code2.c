@@ -1,5 +1,6 @@
-Write a program to swap two numbers using a third variable.
-    #include <stdio.h>   // Header file for input and output functions
+//Write a program to swap two numbers using a third variable.
+   
+#include <stdio.h>   // Header file for input and output functions
 
 int main() {
     int a, b, temp;   // Variables to store numbers and a temporary variable
