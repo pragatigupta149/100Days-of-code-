@@ -1,3 +1,6 @@
+//Show that enums store integers by printing assigned values.
+    
+    
 #include <stdio.h>
 
 enum Colors {
