@@ -1,3 +1,5 @@
+//Use malloc() to allocate structure memory dynamically and print details.
+
 #include <stdio.h>
 #include <stdlib.h>   // required for malloc()
 
