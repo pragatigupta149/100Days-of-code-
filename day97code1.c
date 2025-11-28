@@ -1,3 +1,6 @@
+//Store employee data in a binary file using fwrite() and read using fread().
+
+
 #include <stdio.h>
 
 // Employee structure
