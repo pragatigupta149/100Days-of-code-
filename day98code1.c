@@ -1,3 +1,6 @@
+//Take two structs as input and check if they are identical.
+    
+    
 #include <stdio.h>
 #include <string.h>
 
